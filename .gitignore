@@ -10,3 +10,6 @@ env/
 # OS specific files
 .DS_Store
 Thumbs.db
+
+# Local Processed Datasets (Virtual Buoy Layer)
+data/
