@@ -7,6 +7,15 @@ __pycache__/
 env/
 .env
 
+# Ignore local datasets
+data/
+
+# Ignore Jupyter checkpoint folders
+.ipynb_checkpoints/
+
+# Ignore hidden macOS system files
+.DS_Store
+
 # OS specific files
 .DS_Store
 Thumbs.db
